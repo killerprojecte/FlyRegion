@@ -1,0 +1,10 @@
+region:
+  spawn:
+    pos1:
+      x: 100.0
+      z: 100.0
+    pos2:
+      x: -100.0
+      z: -100.0
+    world: "spawn"
+    name: "&f主城"

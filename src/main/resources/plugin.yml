@@ -1,0 +1,14 @@
+name: FlyRegion
+version: '${version}'
+main: flyproject.flyregion.FlyRegion
+api-version: 1.16
+depend: [ PlaceholderAPI ]
+authors: [ FlyProject ]
+description: A Region Plugin
+commands:
+  flyregion:
+    permission: flyregion.*
+    permission-message: No Permission
+permissions:
+  flytrgion.*:
+    default: op
